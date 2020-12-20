@@ -1,0 +1,25 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "scopeDataCheck": false
+  },
+  "compileType": "game",
+  "libVersion": "1.9.94",
+  "appid": "wxc78425b1e0ac5457",
+  "projectname": "CashFree",
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
